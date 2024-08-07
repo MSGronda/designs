@@ -5,7 +5,7 @@ For this project, I removed the UMD drive of my old PSP 3000 and replaced it wit
 
 ## Images
 
-|![picture1](https://github.com/MSGronda/designs/blob/main/psp-mod/images/picture1.jpg)|![picture2](https://github.com/MSGronda/designs/blob/main/psp-mod/images/picture2.jpg)|
+|![picture1](images/picture1.jpg)|![picture2](images/picture2.jpg)|
 |-|-|
-|![picture3](https://github.com/MSGronda/designs/blob/main/psp-mod/images/picture3.jpeg)|![picture4](https://github.com/MSGronda/designs/blob/main/psp-mod/images/picture4.jpg)|
-|![view7](https://github.com/MSGronda/designs/blob/main/psp-mod/images/view7.png)|![view3-sketch](https://github.com/MSGronda/designs/blob/main/psp-mod/images/view3-sketch.png)|
+|![picture3](images/picture3.jpeg)|![picture4](images/picture4.jpg)|
+|![view7](images/view7.png)|![view3-sketch](images/view3-sketch.png)|

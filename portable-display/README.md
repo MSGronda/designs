@@ -5,6 +5,6 @@ Using the panel (screen) of an old disassembled laptop and a cheap display drive
 
 ## Images
 
-|![picture1](https://github.com/MSGronda/designs/blob/main/portable-display/images/picture1.jpg?raw=true)|![picture1](https://github.com/MSGronda/designs/blob/main/portable-display/images/picture2.png?raw=true)|
+|![picture1](images/picture1.jpg?raw=true)|![picture1](images/picture2.png?raw=true)|
 |-|-|
-|![view7-board](https://github.com/MSGronda/designs/blob/main/portable-display/images/view7-board.png?raw=true)|![cview-feet](https://github.com/MSGronda/designs/blob/main/portable-display/images/cview-feet.png?raw=true)|
+|![view7-board](images/view7-board.png?raw=true)|![cview-feet](images/cview-feet.png?raw=true)|
